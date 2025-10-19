@@ -8,7 +8,7 @@
 👩‍💻 Full-Stack & Mobile Developer passionate about building practical, user-focused apps  
 🔭 Currently contributing to Android and web projects that optimize workflows  
 🌱 Exploring AI integration and DevOps for smarter, scalable solutions  
-📫 Reach me at: safia.zitouni@gmail.com  
+📫 Reach me at: zitounisafia25@gmail.com  
 ⚡ Extra: I turn complex problems into clean, maintainable code
 
 ---
