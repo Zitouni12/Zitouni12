@@ -74,7 +74,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Zitouni12)  
 
 ---
-
-## 📊 GitHub Stats  
-![Safia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zitouni12&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitouni12&layout=compact&theme=tokyonight)  
